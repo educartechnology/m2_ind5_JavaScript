@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://previews.123rf.com/images/galzpaaka/galzpaaka1610/galzpaaka161000015/65555073-blanco-reloj-cuadrado-en-la-cama-blanca-de-pie-con-fondo-blanco-fondo-de-pantalla-tiempo-de-la.jpg');
+    background-size: cover; /* Ajustar la imagen para cubrir completamente el área del fondo */
+    background-repeat: no-repeat;
+    background-position: center center; /* Centrar la imagen en la pantalla */
+    color: #FFFFFF;
+    font-family: 'Arial', sans-serif;
+}
+
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+#tiempohoy {
+    border: 2px solid #4CAF50;
+    color: rgb(16, 15, 15);
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+/* Otros estilos que desees agregar */
